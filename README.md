@@ -1,0 +1,1 @@
+This is a recipe website creating for the demonstration of what  good commit should look like. There will be links to recipes of course and will look brutalist to begin with. Later on with a better understanding I will be using CSS to make it more professional in appearance.
